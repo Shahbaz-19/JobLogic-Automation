@@ -1,0 +1,1 @@
+"""Joblogic resource modules."""
